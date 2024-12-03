@@ -25,4 +25,5 @@ The project involves creating an interactive eCommerce platform that allows user
 npm run dev
 ```
 4. Open the application in your browser at `http://localhost:3000`.
+5. You can view the live version of the project by visiting the following link: **[Live Website](https://legendary-alfajores-e35918.netlify.app/)**
 
