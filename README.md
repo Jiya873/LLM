@@ -4,10 +4,10 @@ The project involves creating an interactive eCommerce platform that allows user
 
 ![Alt text for image](https://github.com/Jiya873/ecommerce-product-catalog/blob/main/Screenshot%202024-12-03%20174512.png)
 
-##Features
-*Fully responsive design
-*Browse products by categories 
-*Search functionality for filtering products by title
-*Dark mode toggle for better user experience
+## Features
+* Fully responsive design
+* Browse products by categories 
+* Search functionality for filtering products by title
+* Dark mode toggle for better user experience
 
 
