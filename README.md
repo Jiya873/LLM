@@ -10,4 +10,19 @@ The project involves creating an interactive eCommerce platform that allows user
 * Search functionality for filtering products by title
 * Dark mode toggle for better user experience
 
+## Setup Instructions
+### Prerequisites
+* React - For building the user interface.
+* React Router - For handling routing/navigation.
+* Axios - For fetching data.
+* Redux Toolkit - For state management.
+* Tailwind CSS - For styling the application.
+
+1. Clone the repository.
+2. Install the dependencies.
+3. Start the development server:
+   ```bash
+npm run dev
+``
+4. Open the application in your browser at `http://localhost:3000`.
 
