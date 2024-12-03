@@ -36,7 +36,7 @@ const MensWear = () => {
 
   return (
     <div 
-    id="womens-wear"
+    id="mens-wear"
     className="mt-14 mb-12">
       <div className="container">
         {/* Header Section */}
