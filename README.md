@@ -21,8 +21,8 @@ The project involves creating an interactive eCommerce platform that allows user
 1. Clone the repository.
 2. Install the dependencies.
 3. Start the development server:
-   ```bash
+```bash
 npm run dev
-``
+```
 4. Open the application in your browser at `http://localhost:3000`.
 
